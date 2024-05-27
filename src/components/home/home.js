@@ -7,7 +7,7 @@ function home()  {
 <>
    <Navbar/>
    <Game/>
-       <h1> how is it!</h1>
+       
 
 </>
   )
